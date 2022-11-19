@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rivaldo&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rivaldo&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rivaldo&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rivaldo&theme=github)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivaldo&show_icons=true&theme=radical)
